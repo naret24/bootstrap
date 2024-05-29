@@ -15,3 +15,4 @@ function cambioBackground(){
 
 //BUSCAR EL BOTON EN MI html POR SU CLASE
 // CADA VEZ QUE MMI BOTON SEA ACCIONADO, VOY A LLAMAR A EJECUTAR MI FUNCION cambioBacground;
+
